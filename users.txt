@@ -1,0 +1,7 @@
+jane,$2y$10$efpjZMECBtKgRwUDSZReTOWR3Z4lQQVPFuZuOOSIFTDZfPtLOxCEq
+bob,$2y$10$3nrmhWf6qISb6X6V.3dhJu6DPIoc9ag/iqRNRnNwEV4WD/u62P.JW
+john,$2y$10$cX.W2XZFWKA4TK1xhRYYLehcwXnTLxnB69ElISDqFIZLXuqyn77Ca
+charlie,$2y$10$YB22uozX1R/ZuxlzrSFmt.P25taxVAdmf.XKT.XJIjSLDTDEesbwy
+henry,$2y$10$ZFrd.qDw/kaFjtkbEoeH5OOGljhaD5rZECaUBgxtMl85Gewx08jqi
+frank,$2y$10$dmy6lSuIOmGUZ1xFLRTMQeNnJXLErsdiE0nMzDbC6w18BduU0LLq6
+grace,$2y$10$waRFih.GpUcJLJPSgfUAz.siY2tXhtHXQMCuCYDhq5lbWkBshlfJa
